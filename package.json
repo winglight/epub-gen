@@ -26,7 +26,7 @@
   "homepage": "https://github.com/cyrilis/epub-gen",
   "dependencies": {
     "archiver": "^3.0.0",
-    "cheerio": "^0.22.0",
+    "cheerio": "^1.0.0-rc.3",
     "diacritics": "^1.3.0",
     "ejs": "^2.6.1",
     "entities": "^1.1.2",
